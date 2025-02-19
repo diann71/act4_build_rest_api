@@ -1,0 +1,9 @@
+{
+    "98a8ddc9-9e50-424f-b3a1-c1e02e437249": {
+        "id":"98a8ddc9-9e50-424f-b3a1-c1e02e437249",
+        "name":"Wrist watch",
+        "price":500,
+        "quantity":50,
+        "image":"image_url.png"
+    }
+}
